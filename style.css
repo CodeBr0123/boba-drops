@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+#title {
+    color: #54ff5d;
+    font-family: "Space Mono";
+}
+
+.header {
+    color: #5bc761;
+    font-family: "Space Mono";
+}
+
+.information {
+    color: whitesmoke;
+    font-family: "Doto";
+}
+
+#analyticalmachine {
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.attribution {
+    color: whitesmoke;
+    font-family: "Space Mono";
+    font-weight: 700;
+    font-style: italic;
+    font-size: 10px;
+    text-align: center;
+}
+
+.attri-link {
+    color: #d1ffd3;
+}
+
+#end {
+    color: darkslategrey;
+    font-family: "Doto";
+    font-size: 8px;
+    text-align: center;
+}
+
+#end2 {
+    color: #1f1f1f;
+    font-family: "Doto";
+    font-size: 48px;
+    text-align: right;
+}
